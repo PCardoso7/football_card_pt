@@ -15,6 +15,11 @@ Soon
 ![football_results](https://user-images.githubusercontent.com/116345010/197203477-d9219fc9-8da0-44f0-96a8-dccffcc964f8.jpg)
 
 # Main Card View (Lives):
+![football_live](https://user-images.githubusercontent.com/116345010/197215534-701a164f-027a-495e-8bf4-ffb7b2e27b3c.jpg)
+
+
+
+
 ![football_live](https://user-images.githubusercontent.com/116345010/197203776-237ad91b-4123-44ab-b579-68aead0e3af2.jpg)
 
 # Main Card View (Leaderboards):
