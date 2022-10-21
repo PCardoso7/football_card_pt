@@ -15,12 +15,7 @@ Soon
 ![football_results](https://user-images.githubusercontent.com/116345010/197203477-d9219fc9-8da0-44f0-96a8-dccffcc964f8.jpg)
 
 # Main Card View (Lives):
-![football_live](https://user-images.githubusercontent.com/116345010/197215534-701a164f-027a-495e-8bf4-ffb7b2e27b3c.jpg)
-
-
-
-
-![football_live](https://user-images.githubusercontent.com/116345010/197203776-237ad91b-4123-44ab-b579-68aead0e3af2.jpg)
+![football_live](https://user-images.githubusercontent.com/116345010/197215915-1c9eb672-5cd0-4d77-8fcb-f80232b47e24.jpg)
 
 # Main Card View (Leaderboards):
 ![football_standings](https://user-images.githubusercontent.com/116345010/197203818-abd633a4-2d1a-4e26-90a4-6441a04a6859.jpg)
