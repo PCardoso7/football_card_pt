@@ -8,5 +8,5 @@ custom:swipe-card | https://github.com/bramkragten/swipe-card<br>
 lovelace-card-mod | https://github.com/thomasloven/lovelace-card-mod<br>
 stack-in-card | https://github.com/custom-cards/stack-in-card<br>
 
-# Step by Step installation:
+# Installation (Step by Step):
 Soon
