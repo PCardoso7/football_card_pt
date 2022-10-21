@@ -1,0 +1,12 @@
+input_select:
+  menu_futebol:
+    name: menu futebol
+    options:
+      - "Jogos"
+      - "Direto"
+      - "Classificação"
+  menu_competicao:
+    name: Competição
+    options:
+      - "Liga dos Campeões"
+      - "Portugal - Liga Bwin"
