@@ -1,0 +1,11 @@
+show_state: true
+show_name: true
+name: ' '
+camera_view: auto
+type: picture-entity
+entity: input_select.menu_competicao
+state_image:
+  Portugal - Liga Bwin: local/images/others/bwin.gif
+  Liga dos Campeões: local/images/others/champions.gif
+hold_action:
+  action: none

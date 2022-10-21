@@ -1,0 +1,50 @@
+type: conditional
+conditions:
+  - entity: input_select.menu_competicao
+    state: Liga dos Campeões
+card:
+  type: custom:swipe-card
+  parameters:
+    spaceBetween: 8
+    autoHeight: true
+  scrollbar:
+    hide: true
+    draggable: true
+    snapOnRelease: true
+  cards:
+    - type: vertical-stack
+      cards:
+        - type: markdown
+          style: |
+            ha-card {
+              #background: #FF0000;
+              height: 35px !important;
+              text-align: center;
+              font-size: 14px;
+            }
+            ha-markdown {
+              padding: 5px 0px 0px 0px !important;
+            }
+          content: >
+            <table width="100%" border="0" cellspacing="0" cellpadding="0"> <tr>
+            <td align="center"><div><font color=#2195fd><font
+            size=2px><b>JOGOS</b><font
+            color=#bbbbbb>▫️DIRETO▫️CLASSIFICAÇÃO</div></td> </tr> </table>
+        - type: markdown
+          style: |
+            ha-card {
+              background: #2195fd;
+              height: 50px !important;
+              text-align: center;
+              font-size: 12px;
+            }
+            ha-markdown {
+              padding: 0px 0px 15px 0px !important;
+              color: #111111
+            } 
+          content: |
+            <table width="100%" border="0" cellspacing="0" cellpadding="0">
+            <tr>
+            <td width="100%" align="center"><b><p>BREVEMENTE</b></td>
+            </tr>
+            </table>
