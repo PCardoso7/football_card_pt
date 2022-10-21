@@ -11,5 +11,11 @@ stack-in-card | https://github.com/custom-cards/stack-in-card<br>
 # Installation (Step by Step):
 Soon
 
-# Main Card (View):
+# Main Card View (Results):
 ![football_results](https://user-images.githubusercontent.com/116345010/197203477-d9219fc9-8da0-44f0-96a8-dccffcc964f8.jpg)
+
+# Main Card View (Lives):
+![football_live](https://user-images.githubusercontent.com/116345010/197203776-237ad91b-4123-44ab-b579-68aead0e3af2.jpg)
+
+# Main Card View (Leaderboards):
+![football_standings](https://user-images.githubusercontent.com/116345010/197203818-abd633a4-2d1a-4e26-90a4-6441a04a6859.jpg)
