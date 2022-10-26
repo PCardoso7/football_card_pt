@@ -15,9 +15,13 @@ All these dependencies can be installed through Hacs
 
 # Installation (Step by Step):
 
+
+
 SOON
 
-# Update Selectors::
+
+
+# Update Selectors:
 (3) #content-center > div.Ja > div.xb, div.Tc.Xc<br>
 (4) #content-center > div.Ja > div.Tc.Xc<br>
 (5) td.ve<br>
