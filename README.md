@@ -17,10 +17,10 @@ All these dependencies can be installed through Hacs
 
 SOON
 
-Update Selectors:
-(3) #content-center > div.Ja > div.xb, div.Tc.Xc
-(4) #content-center > div.Ja > div.Tc.Xc
-(5) td.ve
+# Update Selectors::
+(3) #content-center > div.Ja > div.xb, div.Tc.Xc<br>
+(4) #content-center > div.Ja > div.Tc.Xc<br>
+(5) td.ve<br>
 (6) td.we
 
 <a href="https://www.buymeacoffee.com/PCardoso7" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="41" width="174"></a>
