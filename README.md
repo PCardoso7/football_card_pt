@@ -15,8 +15,15 @@ All these dependencies can be installed through Hacs
 
 # Installation (Step by Step):
 
-Soon
+SOON
 
+Update Selectors:
+(3) #content-center > div.Ja > div.xb, div.Tc.Xc
+(4) #content-center > div.Ja > div.Tc.Xc
+(5) td.ve
+(6) td.we
+
+<a href="https://www.buymeacoffee.com/PCardoso7" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="41" width="174"></a>
 
 # Main Card View (Results):
 ![football_results](https://user-images.githubusercontent.com/116345010/197203477-d9219fc9-8da0-44f0-96a8-dccffcc964f8.jpg)
@@ -26,5 +33,3 @@ Soon
 
 # Main Card View (Leaderboards):
 ![football_standings](https://user-images.githubusercontent.com/116345010/197203818-abd633a4-2d1a-4e26-90a4-6441a04a6859.jpg)
-
-<a href="https://www.buymeacoffee.com/PCardoso7" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="41" width="174"></a>
