@@ -17,8 +17,8 @@ All these dependencies can be installed through Add-ons / Hacs
 # Installation (Step by Step):
 (1) Copy all the images to your folder (www/images) in Home Assistant;<br>
 (2) Create the two input selects (menu_futebol and menu_competição):<br>
-    - If you use "packages" (https://www.home-assistant.io/docs/configuration/packages/) change the "input_select.yaml" name file (not extension and it's not mandatory) and copy to your packages directory;
-    - if you not use "packages" copy the code in the "input_select.yaml" file to your "configuration.yaml" file. You can open the files with the software "notepad++". 
+    - If you use <a href="https://www.home-assistant.io/docs/configuration/packages/">"packages"</a> change the "input_select.yaml" name file (not extension and it's not mandatory) and copy to your packages directory;<br>
+    - if you not use "packages" copy the code in the "input_select.yaml" file to your "configuration.yaml" file. You can open the files with the software "notepad++"<br> 
 (3) Check configuration in "developer tools" menu and if "its ok", restart the Home Assistant;<br>
 (4) Go to Node-RED menu, click on the icon with 3 bars on the top right side and choose the "Import" option;<br>
 (5) Open the "football_flows.json" file and copy all the code to your "import area" in Node-Red. Import!;<br>
