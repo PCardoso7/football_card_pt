@@ -17,8 +17,8 @@ All these dependencies can be installed through Add-ons / Hacs
 # Installation (Step by Step):
 1. Copy all the images to your folder (<i>www/images</i>) in Home Assistant.<p>
 2. Create the two input selects (<i>menu_futebol</i> and <i>menu_competição</i>):<br>
- &nbsp;&nbsp; - If you use <a href="https://www.home-assistant.io/docs/configuration/packages/">"<i>packages</i>"</a> change the "<i>input_select.yaml</i>" name file (not extension and it's not mandatory) and copy to your packages directory.<br>
- &nbsp;&nbsp; - if you not use <a href="https://www.home-assistant.io/docs/configuration/packages/">"<i>packages</i>"</a> copy the code in the "<i>input_select.yaml</i>" file to your "<i>configuration.yaml</i>" file. You can open the files with the software "<i>notepad++</i>".<p> 
+ &nbsp;2.1. If you use <a href="https://www.home-assistant.io/docs/configuration/packages/">"<i>packages</i>"</a> change the "<i>input_select.yaml</i>" name file (not extension and it's not mandatory) and copy to your packages directory.<br>
+ &nbsp;2.2. If you not use <a href="https://www.home-assistant.io/docs/configuration/packages/">"<i>packages</i>"</a> copy the code in the "<i>input_select.yaml</i>" file to your "<i>configuration.yaml</i>" file. You can open the files with the software "<i>notepad++</i>".<p> 
 3. Check configuration in "<i>developer tools</i>" menu and if "its ok", restart the Home Assistant.<p>
 4. Go to Node-RED menu, click on the icon with 3 bars on the top right side and choose the "<i>Import</i>" option.<p>
 5. Open the "<i>football_flows.json</i>" file and copy all the code to your "import area" in Node-Red. Import!;<p>
@@ -28,7 +28,8 @@ All these dependencies can be installed through Add-ons / Hacs
 
 # Notes:
 1. To create automations to interact with the goal of the favorite team go to the flow (Node-Red), first group ("<i>Insert Data</i>") open node 8 and change the name of the favorite team. Then, go to the last group ("Automações ao Golo da Equipa Favorita") and change or add the actions you want depending on the goal 1, 2, 3 etc etc.<p>
-2. Sometimes it is necessary to update the "selectors" (numbers 4, 5, 6 and 7 in "<i>Inserir Dados</i>" group) related to the "http requests" made. These same selectors can (always) be consulted below. <b>So, if for some reason you are having problems updating the results, check that the selectors you have are the same as the following:</b>
+2. Sometimes it is necessary to update the "selectors" (numbers 4, 5, 6 and 7 in "<i>Inserir Dados</i>" group) related to the "http requests" made.<p>
+ <b>So, if for some reason you are having problems updating the results, check that the selectors you have are the same as the following:</b>
 
 # Update Selectors:
 4. #content-center > div.Ja > div.pb, div.Vc.Zc<br>
