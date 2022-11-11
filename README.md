@@ -3,6 +3,8 @@
 Football Lives, Results and Leaderboards on a Lovelace Card (Home Assistant).
  - Allows Telegram notifications and automations triggered by a simple goal from the favorite team.
 
+<hr>
+
 Credits to:<br>
 - Joel Mendes (https://github.com/tv4you2016) for the contribution in reviewing all the files.<br>
 - Pedro Miguel Fernandes (https://github.com/pmfernandes) for the contribution with some functions nodes.
