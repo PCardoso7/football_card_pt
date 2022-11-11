@@ -15,14 +15,14 @@ All these dependencies can be installed through Add-ons / Hacs
 | stack-in-card | https://github.com/custom-cards/stack-in-card |
 
 # Installation (Step by Step):
-1. Copy all the images to your folder (<i>www/images</i>) in Home Assistant;<br>
-2. Create the two input selects (<i>menu_futebol</i> and <i>menu_competição</i>):<br>
+1. Copy all the images to your folder (<i>www/images</i>) in Home Assistant;<p>
+2. Create the two input selects (<i>menu_futebol</i> and <i>menu_competição</i>):<p>
   &nbsp;&nbsp;&nbsp; - If you use <a href="https://www.home-assistant.io/docs/configuration/packages/">"<i>packages</i>"</a> change the "<i>input_select.yaml</i>" name file (not extension and it's not mandatory) and copy to your packages directory;<br>
-  &nbsp;&nbsp;&nbsp; - if you not use "packages" copy the code in the "<i>input_select.yaml</i>" file to your "<i>configuration.yaml</i>" file. You can open the files with the software "<i>notepad++</i>"<br> 
+  &nbsp;&nbsp;&nbsp; - if you not use <a href="https://www.home-assistant.io/docs/configuration/packages/">"<i>packages</i>"</a> copy the code in the "<i>input_select.yaml</i>" file to your "<i>configuration.yaml</i>" file. You can open the files with the software "<i>notepad++</i>"<br> 
 3. Check configuration in "<i>developer tools</i>" menu and if "its ok", restart the Home Assistant;<br>
-4. Go to Node-RED menu, click on the icon with 3 bars on the top right side and choose the "<i>Import</i>" option;<br>
-5. Open the "<i>football_flows.json</i>" file and copy all the code to your "import area" in Node-Red. Import!;<br>
-6. Update all the palettes needed to use the flow.<br>
+4. Go to Node-RED menu, click on the icon with 3 bars on the top right side and choose the "<i>Import</i>" option;<p>
+5. Open the "<i>football_flows.json</i>" file and copy all the code to your "import area" in Node-Red. Import!;<p>
+6. Update all the palettes needed to use the flow.<p>
 7. In the flow, its only necessary to update the credentials of your Telegram in "<i>Notificações - JOGOS</i>", node "<i>Telegram Bot</i>". Deploy!<br>
 8. Go to Frontend Lovelace and copy all the code in the "<i>lovelace_card.yaml</i>" file to a new custom card.
 
