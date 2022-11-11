@@ -36,7 +36,7 @@ All these dependencies can be installed through Add-ons / Hacs
 8. Go to Frontend Lovelace and copy all the code in the "<i>lovelace_card.yaml</i>" file to a new custom card.
 
 # Notes:
-1. To create automations to interact with the goal of the favorite team go to the flow (Node-Red), first group ("<i>Insert Data</i>") open node 8 and change the name of the favorite team. Then, go to the last group ("Automações ao Golo da Equipa Favorita") and change or add the actions you want depending on the goal 1, 2, 3 etc etc.<p>
+1. To create automations to interact with the goal of the favorite team, go to the flow (Node-Red), first group ("<i>Insert Data</i>") open node 8 and change the name of the favorite team. Then, go to the last group ("Automações ao Golo da Equipa Favorita") and change or add the actions you want depending on the goal 1, 2, 3 etc etc.<p>
 2. Sometimes it is necessary to update the "selectors" (numbers 4, 5, 6 and 7 in "<i>Inserir Dados</i>" group) related to the "http requests" made.<br>
  <b>So, if for some reason you are having problems updating the results, check that the selectors you have are the same as the following:</b>
 
