@@ -2,12 +2,12 @@
 
 Football Lives, Results and Leaderboards on a Lovelace Card (Home Assistant).
  - Allows Telegram notifications and automations triggered by a simple goal from the favorite team.<br>
- - With the indication of the television channel that will broadcast.
+ - Broadcast tv channel indication.
 
 <hr>
 
 Credits to:<br>
-- Joel Mendes (https://github.com/tv4you2016) for the contribution in reviewing all the files.<br>
+- Joel Mendes (https://github.com/tv4you2016) for the contribution to the general review.<br>
 - Pedro Miguel Fernandes (https://github.com/pmfernandes) for the contribution with some functions nodes.
 
 <hr>
@@ -24,7 +24,7 @@ All these dependencies can be installed through Add-ons / Hacs
 | stack-in-card | https://github.com/custom-cards/stack-in-card |
 
 # Installation (Step by Step):
-1. Copy all the images to your folder (<i>www/images</i>) in Home Assistant.<p>
+1. Copy all the images to your images folder (<i>www/images/futebol/logos</i>) in Home Assistant.<p>
 2. Create the two input selects (<i>menu_futebol</i> and <i>menu_competição</i>):
 - If you use <a href="https://www.home-assistant.io/docs/configuration/packages/">"<i>packages</i>"</a> change the "<i>input_select.yaml</i>" name file (not extension and it's not mandatory) and copy to your packages directory.<br>
 - If you not use <a href="https://www.home-assistant.io/docs/configuration/packages/">"<i>packages</i>"</a> copy the code in the "<i>input_select.yaml</i>" file to your "<i>configuration.yaml</i>" file.<p>
